@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to bottom right,#00F490, #00BBC9);
+}
+.drop-shadow{
+    text-shadow: 2px 2px 2px black;
+}
+.lead{
+    color:white;
+    font-size: 2.2rem;
+}
+.btn-outine-light{
+    border-color:rgb(84, 180, 20)    
+}
